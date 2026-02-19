@@ -74,7 +74,8 @@ int main(int argc, char *argv[]) {
 }
 
 ```
-##OUTPUT
+## OUTPUT
+
 <img width="793" height="211" alt="Screenshot 2026-02-19 142859" src="https://github.com/user-attachments/assets/5b7d860f-55a0-4f48-809f-41ac28d5c4d0" />
 
 ## 2.To Write a C program that illustrates files locking
